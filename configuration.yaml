@@ -1,0 +1,3 @@
+address: "localhost:8080"
+read-timeout: 15s
+write-timeout: 30s
